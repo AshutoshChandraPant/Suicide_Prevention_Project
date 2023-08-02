@@ -1,4 +1,4 @@
-# Suicide_Prevention_Project
+# Your Life Guardian
 The repo contains the following:
 Executable Flask File
 Model File	
